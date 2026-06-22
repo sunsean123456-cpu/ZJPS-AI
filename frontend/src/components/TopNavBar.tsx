@@ -64,7 +64,7 @@ const TopNavBar: React.FC<TopNavBarProps> = ({ selectedProject, onBackToBoard })
           </svg>
         </div>
         <div className="nav-title">
-          <span className="nav-title-text">绿色建筑先进适用技术智能评审智能体</span>
+          <span className="nav-title-text">绿建评价 4.0</span>
           <span className="nav-slogan">绿色 智能 高效</span>
         </div>
       </div>
