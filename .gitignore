@@ -1,0 +1,32 @@
+# Dependencies
+node_modules/
+backend/.venv/
+
+# Build output
+frontend/dist/
+backend/static/
+
+# Python
+__pycache__/
+*.pyc
+backend/data/uploads/*
+!backend/data/uploads/.gitkeep
+backend/data/*.db
+
+# Environment
+backend/.env
+.env
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Test files
+backend/test_*.py
